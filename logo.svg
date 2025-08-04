@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 100">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
   <style>
-    .text { font: bold 24px sans-serif; fill: #004369; }
-    .tagline { font: italic 12px sans-serif; fill: #01949A; }
+    .text { font: bold 28px sans-serif; fill: #004369; }
+    .tagline { font: italic 14px sans-serif; fill: #01949A; }
   </style>
-  <rect width="200" height="100" fill="#E5DDC8" rx="10"/>
-  <text x="100" y="50" text-anchor="middle" class="text">2Pbal</text>
-  <text x="100" y="70" text-anchor="middle" class="tagline">Precise Programming for Business Advancement</text>
+  <rect width="300" height="100" fill="#E5DDC8" rx="10"/>
+  <text x="150" y="50" text-anchor="middle" class="text">2Pbal</text>
+  <text x="150" y="75" text-anchor="middle" class="tagline">Precise Programming for Business Advancement</text>
 </svg>
